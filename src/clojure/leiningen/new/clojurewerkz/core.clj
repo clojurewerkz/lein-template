@@ -1,0 +1,1 @@
+(ns {{sanitized-ns}}.core)
