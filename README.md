@@ -5,7 +5,7 @@ A Leiningen template for all new ClojureWerkz [Clojure libraries](http://clojure
 
 ## Installation
 
-Add plugin dependency on `[clojurewerkz/lein-template "1.0.0"]` to your `~/.lein/profiles.clj`.
+Add a plugin dependency on `[clojurewerkz/lein-template "1.0.0"]` to your `~/.lein/profiles.clj`.
 
 
 ## Usage
