@@ -1,6 +1,6 @@
 # ClojureWerkz Leiningen template
 
-A Leiningen template for all new ClojureWerkz [Clojure libraries](http://clojurewerkz.org).
+A Leiningen 2.0 template for all new ClojureWerkz [Clojure libraries](http://clojurewerkz.org).
 
 
 ## Installation
@@ -10,6 +10,7 @@ Add a plugin dependency on `[clojurewerkz/lein-template "1.0.0"]` to your `~/.le
 
 ## Usage
 
+    # requires Leiningen 2.0 or later
     lein new clojurewerkz badass-library
 
 
