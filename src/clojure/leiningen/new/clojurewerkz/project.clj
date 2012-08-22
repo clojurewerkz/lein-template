@@ -14,4 +14,5 @@
                              :releases {:checksum :fail}}
                  "sonatype-snapshots" {:url "http://oss.sonatype.org/content/repositories/snapshots"
                                        :snapshots true
-                                       :releases {:checksum :fail :update :always}}})
+                                       :releases {:checksum :fail :update :always}}}
+  :source-paths ["src/clojure"])
