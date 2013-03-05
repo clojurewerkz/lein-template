@@ -75,18 +75,25 @@ Our documentation site is not yet live, sorry.
 ## ... Is a ClojureWerkz Project
 
 {{name}} is part of the [group of Clojure libraries known as ClojureWerkz](http://clojurewerkz.org), together with
-[Monger](http://clojuremongodb.info), [Welle](http://clojureriak.info), [Langohr](https://github.com/michaelklishin/langohr), [Elastisch](https://github.com/clojurewerkz/elastisch), [Quartzite](https://github.com/michaelklishin/quartzite) and several others.
+ * [Monger](http://clojuremongodb.info)
+ * [Langohr](https://github.com/michaelklishin/langohr)
+ * [Elastisch](https://github.com/clojurewerkz/elastisch)
+ * [Welle](http://clojureriak.info)
+ * [Neocons](http://clojureneo4j.info)
+ * [Quartzite](https://github.com/michaelklishin/quartzite) and several others.
 
 
 ## Development
 
-{{name}} uses [Leiningen 2](https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md). Make sure you have it installed and then run tests against
-supported Clojure versions using
+{{name}} uses [Leiningen
+2](https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md). Make
+sure you have it installed and then run tests against supported
+Clojure versions using
 
     lein2 all test
 
-Then create a branch and make your changes on it. Once you are done with your changes and all tests pass, submit a pull request
-on Github.
+Then create a branch and make your changes on it. Once you are done
+with your changes and all tests pass, submit a pull request on GitHub.
 
 
 
@@ -94,4 +101,5 @@ on Github.
 
 Copyright (C) {{year}} Michael S. Klishin, Alex Petrov.
 
-Double licensed under the [Eclipse Public License](http://www.eclipse.org/legal/epl-v10.html) (the same as Clojure) or the [Apache Public License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+Double licensed under the [Eclipse Public License](http://www.eclipse.org/legal/epl-v10.html) (the same as Clojure) or
+the [Apache Public License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
