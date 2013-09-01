@@ -16,6 +16,6 @@ Add a plugin dependency on `[clojurewerkz/lein-template "1.5.0"]` to your `~/.le
 
 ## License
 
-Copyright © 2012 Michael S. Klishin, Alex Petrov
+Copyright © 2013 Michael S. Klishin, Alex Petrov
 
 Distributed under the Eclipse Public License, the same as Clojure.
