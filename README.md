@@ -21,6 +21,6 @@ your `~/.lein/profiles.clj`:
 
 ## License
 
-Copyright © 2013 Michael S. Klishin, Alex Petrov
+Copyright © 2014 Michael S. Klishin, Alex Petrov
 
 Distributed under the Eclipse Public License, the same as Clojure.
