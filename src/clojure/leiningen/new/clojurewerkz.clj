@@ -1,6 +1,6 @@
 (ns leiningen.new.clojurewerkz
   "A Leiningen template for new ClojureWerkz project"
-  (:use [leiningen.new.templates :only [->files name-to-path sanitize-ns renderer year]]))
+  (:require [leiningen.new.templates :refer [->files name-to-path sanitize-ns renderer year]]))
 
 (def ^{:const true}
   project-version "1.0.0-SNAPSHOT")
