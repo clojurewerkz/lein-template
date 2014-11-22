@@ -1,7 +1,7 @@
 (defproject {{fq-name}} "{{project-version}}"
   :description "FIXME"
   :dependencies [[org.clojure/clojure "{{clojure-version}}"]
-                 [clojurewerkz/support "1.0.0"]]
+                 [clojurewerkz/support "1.1.0"]]
   :profiles {:1.4 {:dependencies [[org.clojure/clojure "1.4.0"]]}
              :1.5 {:dependencies [[org.clojure/clojure "1.5.1"]]}
              :master {:dependencies [[org.clojure/clojure "1.7.0-master-SNAPSHOT"]]}
