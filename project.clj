@@ -1,4 +1,4 @@
-(defproject clojurewerkz/lein-template "1.8.0"
+(defproject clojurewerkz/lein-template "1.9.0-SNAPSHOT"
   :description "A Leiningen 2.x template for new ClojureWerkz projects"
   :url "http://github.com/clojurewerkz/lein-template"
   :license {:name "Eclipse Public License"
