@@ -16,7 +16,7 @@
         data {:name            short-name
               :fq-name         fq-name
               :project-version project-version
-              :clojure-version "1.7.0"
+              :clojure-version "1.8.0"
               :fs-path         (name-to-path fq-name)
               :sanitized-ns    (sanitize-ns fq-name)
               :year            (year)}]

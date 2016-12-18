@@ -69,13 +69,11 @@ To subscribe for announcements of releases, important changes and so on, please 
 
 {{name}} is part of the [group of Clojure libraries known as ClojureWerkz](http://clojurewerkz.org), together with
 
- * [Monger](http://clojuremongodb.info)
  * [Langohr](http://clojurerabbitmq.info)
  * [Elastisch](http://clojureelasticsearch.info)
- * [Cassaforte](http://clojurecassandra.info)
- * [Titanium](http://titanium.clojurewerkz.org)
  * [Neocons](http://clojureneo4j.info)
- * [EEP](https://github.com/clojurewerkz/eep)
+ * [Monger](http://clojuremongodb.info)  
+ * [Cassaforte](http://clojurecassandra.info)
 
 and several others.
 
@@ -87,7 +85,7 @@ and several others.
 sure you have it installed and then run tests against supported
 Clojure versions using
 
-    lein2 all test
+    lein all test
 
 Then create a branch and make your changes on it. Once you are done
 with your changes and all tests pass, submit a pull request on GitHub.

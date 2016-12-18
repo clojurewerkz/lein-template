@@ -2,10 +2,10 @@
   :description "FIXME"
   :dependencies [[org.clojure/clojure "{{clojure-version}}"]
                  [clojurewerkz/support "1.1.0"]]
-  :profiles {:1.8 {:dependencies [[org.clojure/clojure "1.8.0-RC4"]]}
-             :master {:dependencies [[org.clojure/clojure "1.8.0-master-SNAPSHOT"]]}
+  :profiles {:1.8 {:dependencies [[org.clojure/clojure "1.8.0"]]}
+             :master {:dependencies [[org.clojure/clojure "1.9.0-master-SNAPSHOT"]]}
              :dev {:resource-paths ["test/resources"]
-                   :plugins [[codox "0.9.0"]]
+                   :plugins [[codox "0.10.0"]]
                    :codox {:source-paths ["src/clojure"]}}}
   :aliases {"all" ["with-profile" "dev:dev,1.8:dev,master"]}
   :repositories {"sonatype" {:url "http://oss.sonatype.org/content/repositories/releases"
